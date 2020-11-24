@@ -252,8 +252,9 @@
     .react-datepicker-time__input {
       display: inline-block;
       margin-left: 10px;
+      width: 100px;
       input {
-        width: 85px;
+        width: 100px;
       }
       input[type="time"]::-webkit-inner-spin-button,
       input[type="time"]::-webkit-outer-spin-button {
